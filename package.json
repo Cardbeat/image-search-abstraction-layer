@@ -1,0 +1,25 @@
+{
+  "name": "image-search-abstraction-layer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cardbeat/image-search-abstraction-layer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cardbeat/image-search-abstraction-layer/issues"
+  },
+  "homepage": "https://github.com/Cardbeat/image-search-abstraction-layer#readme",
+  "dependencies": {
+    "express": "^4.15.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
