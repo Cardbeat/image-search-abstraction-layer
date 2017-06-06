@@ -2,7 +2,7 @@ import express from 'express';
 import mongoose from 'mongoose';
 import { searchApi } from './api/search';
 
-const mongodb = process.env.MONGODB_URI || 'mongodb://localhost:27017';
+const mongodb = process.env.MONGODB_URI ||'mongodb://image:image@ds111882.mlab.com:11882/image';
 mongooseInit(mongodb);
 
 
